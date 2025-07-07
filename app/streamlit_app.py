@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 
 # Load data
-df = pd.read_csv('../data/zomato_swiggy_full_dataset.csv')
+df = pd.read_csv('data/zomato_swiggy_full_dataset.csv')
 df["Extra Charges"] = df["Final Price"] - df["Base Price"]
 
 st.title("Zomato vs Swiggy Price Analytics Dashboard")
