@@ -1,0 +1,101 @@
+City,App,Dish,Base Price,Delivery Fee,Packaging Fee,Platform Fee,Final Price
+Delhi,Zomato,Paneer Butter Masala,128,24,7,9,168
+Delhi,Swiggy,Paneer Butter Masala,187,38,8,10,243
+Delhi,Zomato,Chicken Biryani,257,33,19,11,320
+Delhi,Swiggy,Chicken Biryani,255,40,17,13,325
+Delhi,Zomato,Veg Burger,216,39,15,15,285
+Delhi,Swiggy,Veg Burger,256,31,20,12,319
+Delhi,Zomato,Chicken Roll,265,34,6,10,315
+Delhi,Swiggy,Chicken Roll,183,29,16,15,243
+Delhi,Zomato,Pav Bhaji,239,39,9,13,300
+Delhi,Swiggy,Pav Bhaji,159,28,9,8,204
+Delhi,Zomato,Pizza,289,24,19,12,344
+Delhi,Swiggy,Pizza,188,28,19,9,244
+Delhi,Zomato,Chole Bhature,128,37,13,8,186
+Delhi,Swiggy,Chole Bhature,257,23,14,15,309
+Delhi,Zomato,Idli Sambar,221,35,9,15,280
+Delhi,Swiggy,Idli Sambar,175,26,5,14,220
+Delhi,Zomato,Fried Rice,250,22,13,9,294
+Delhi,Swiggy,Fried Rice,228,40,8,9,285
+Delhi,Zomato,Dal Makhani,196,33,10,13,252
+Delhi,Swiggy,Dal Makhani,235,40,20,12,307
+Mumbai,Zomato,Paneer Butter Masala,218,28,16,11,273
+Mumbai,Swiggy,Paneer Butter Masala,289,32,11,9,341
+Mumbai,Zomato,Chicken Biryani,251,30,18,13,312
+Mumbai,Swiggy,Chicken Biryani,191,40,18,8,257
+Mumbai,Zomato,Veg Burger,220,36,12,13,281
+Mumbai,Swiggy,Veg Burger,175,22,19,15,231
+Mumbai,Zomato,Chicken Roll,205,32,15,11,263
+Mumbai,Swiggy,Chicken Roll,253,21,12,10,296
+Mumbai,Zomato,Pav Bhaji,204,40,6,12,262
+Mumbai,Swiggy,Pav Bhaji,180,24,16,13,233
+Mumbai,Zomato,Pizza,151,26,17,15,209
+Mumbai,Swiggy,Pizza,114,40,13,13,180
+Mumbai,Zomato,Chole Bhature,141,32,20,12,205
+Mumbai,Swiggy,Chole Bhature,121,32,14,12,179
+Mumbai,Zomato,Idli Sambar,101,25,10,13,149
+Mumbai,Swiggy,Idli Sambar,296,21,8,12,337
+Mumbai,Zomato,Fried Rice,220,31,11,11,273
+Mumbai,Swiggy,Fried Rice,112,36,12,13,173
+Mumbai,Zomato,Dal Makhani,296,29,10,13,348
+Mumbai,Swiggy,Dal Makhani,261,26,19,15,321
+Bangalore,Zomato,Paneer Butter Masala,282,39,9,8,338
+Bangalore,Swiggy,Paneer Butter Masala,297,36,13,8,354
+Bangalore,Zomato,Chicken Biryani,184,40,16,8,248
+Bangalore,Swiggy,Chicken Biryani,111,22,9,14,156
+Bangalore,Zomato,Veg Burger,194,40,6,13,253
+Bangalore,Swiggy,Veg Burger,130,27,18,10,185
+Bangalore,Zomato,Chicken Roll,259,25,15,9,308
+Bangalore,Swiggy,Chicken Roll,181,25,7,14,227
+Bangalore,Zomato,Pav Bhaji,116,26,17,12,171
+Bangalore,Swiggy,Pav Bhaji,150,40,17,11,218
+Bangalore,Zomato,Pizza,214,25,8,11,258
+Bangalore,Swiggy,Pizza,208,34,16,13,271
+Bangalore,Zomato,Chole Bhature,247,32,6,11,296
+Bangalore,Swiggy,Chole Bhature,256,29,13,11,309
+Bangalore,Zomato,Idli Sambar,289,27,6,14,336
+Bangalore,Swiggy,Idli Sambar,267,25,11,11,314
+Bangalore,Zomato,Fried Rice,287,27,15,10,339
+Bangalore,Swiggy,Fried Rice,204,28,9,8,249
+Bangalore,Zomato,Dal Makhani,293,21,8,14,336
+Bangalore,Swiggy,Dal Makhani,216,35,6,10,267
+Kolkata,Zomato,Paneer Butter Masala,264,23,19,15,321
+Kolkata,Swiggy,Paneer Butter Masala,239,25,12,8,284
+Kolkata,Zomato,Chicken Biryani,147,22,18,9,196
+Kolkata,Swiggy,Chicken Biryani,264,35,11,14,324
+Kolkata,Zomato,Veg Burger,148,28,10,9,195
+Kolkata,Swiggy,Veg Burger,164,29,13,14,220
+Kolkata,Zomato,Chicken Roll,262,20,17,11,310
+Kolkata,Swiggy,Chicken Roll,171,26,10,14,221
+Kolkata,Zomato,Pav Bhaji,239,30,19,13,301
+Kolkata,Swiggy,Pav Bhaji,254,21,18,11,304
+Kolkata,Zomato,Pizza,192,33,7,11,243
+Kolkata,Swiggy,Pizza,108,26,19,12,165
+Kolkata,Zomato,Chole Bhature,292,28,11,12,343
+Kolkata,Swiggy,Chole Bhature,101,32,14,12,159
+Kolkata,Zomato,Idli Sambar,131,21,19,14,185
+Kolkata,Swiggy,Idli Sambar,181,34,17,9,241
+Kolkata,Zomato,Fried Rice,278,24,20,14,336
+Kolkata,Swiggy,Fried Rice,273,32,16,13,334
+Kolkata,Zomato,Dal Makhani,263,36,18,13,330
+Kolkata,Swiggy,Dal Makhani,255,25,15,9,304
+Hyderabad,Zomato,Paneer Butter Masala,164,38,13,13,228
+Hyderabad,Swiggy,Paneer Butter Masala,152,25,16,10,203
+Hyderabad,Zomato,Chicken Biryani,123,23,10,15,171
+Hyderabad,Swiggy,Chicken Biryani,224,35,20,9,288
+Hyderabad,Zomato,Veg Burger,132,27,6,15,180
+Hyderabad,Swiggy,Veg Burger,231,33,11,11,286
+Hyderabad,Zomato,Chicken Roll,191,28,9,10,238
+Hyderabad,Swiggy,Chicken Roll,107,40,19,8,174
+Hyderabad,Zomato,Pav Bhaji,248,20,20,11,299
+Hyderabad,Swiggy,Pav Bhaji,198,24,10,14,246
+Hyderabad,Zomato,Pizza,261,36,11,14,322
+Hyderabad,Swiggy,Pizza,267,31,19,8,325
+Hyderabad,Zomato,Chole Bhature,266,21,5,15,307
+Hyderabad,Swiggy,Chole Bhature,228,26,13,14,281
+Hyderabad,Zomato,Idli Sambar,136,24,10,14,184
+Hyderabad,Swiggy,Idli Sambar,187,30,19,15,251
+Hyderabad,Zomato,Fried Rice,211,39,13,13,276
+Hyderabad,Swiggy,Fried Rice,216,33,18,10,277
+Hyderabad,Zomato,Dal Makhani,132,28,12,13,185
+Hyderabad,Swiggy,Dal Makhani,189,28,18,8,243
